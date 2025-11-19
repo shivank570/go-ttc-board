@@ -9,7 +9,7 @@ workflows:
       xcode: latest
       vars:
         # You can change this later in Xcode / Info.plist if needed
-        BUNDLE_ID: "com.shivank.goTtcBoard"
+        BUNDLE_ID: "com.shivank.transitpulse"
 
     scripts:
       - name: Flutter pub get
